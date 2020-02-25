@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='C:/Users/cs19027/Desktop/workspace/2019後期講義/programing/game/latest'
+let g:netrw_dirhist_3='C:\Users\cs19027\Desktop\workspace\2019後期講義\programing\Lec11'
+let g:netrw_dirhist_2='C:/Users/cs19027/Desktop/workspace/プログラミング/AtCoder/086'
+let g:netrw_dirhist_1='C:/'
