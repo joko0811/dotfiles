@@ -1,0 +1,11 @@
+# 補完時に大文字小文字を無視
+set completion-ignore-case on
+#Tabキーで入力補完
+set completion-ignore-case on
+TAB: menu-complete
+# ファイルタイプをカラフルに
+set colored-stats on
+# 補完の接頭辞をカラフルに
+set colored-completion-prefix on
+# 実行ファイルに印を付ける
+set visible-stats on
