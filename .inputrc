@@ -9,3 +9,5 @@ set colored-stats on
 set colored-completion-prefix on
 # 実行ファイルに印を付ける
 set visible-stats on
+# ヒープ音を消す
+set bell-style none
